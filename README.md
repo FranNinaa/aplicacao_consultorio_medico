@@ -1,5 +1,5 @@
 # projeto_consultorio
-Sistema de Controle de Consultório 
+Sistema de Controle para Consultório 
 
 ESSE É O MEU PRIMEIRO PROJETO QUE FAÇO ... CONTINUO  NA BATALHA DOS ESTUDOS  !!!
 
