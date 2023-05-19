@@ -1,0 +1,12 @@
+E:\SolutionConsultorio\ObjetoTransferencia\bin\Release\ObjetoTransferencia.dll
+E:\SolutionConsultorio\ObjetoTransferencia\bin\Release\ObjetoTransferencia.pdb
+E:\SolutionConsultorio\ObjetoTransferencia\bin\Release\Microsoft.Analytics.Interfaces.dll
+E:\SolutionConsultorio\ObjetoTransferencia\bin\Release\Microsoft.Analytics.Interfaces.Streaming.dll
+E:\SolutionConsultorio\ObjetoTransferencia\bin\Release\Microsoft.Analytics.Types.dll
+E:\SolutionConsultorio\ObjetoTransferencia\bin\Release\System.Data.SqlClient.dll
+E:\SolutionConsultorio\ObjetoTransferencia\bin\Release\System.Data.SqlClient.xml
+E:\SolutionConsultorio\ObjetoTransferencia\obj\Release\ObjetoTransferencia.csproj.AssemblyReference.cache
+E:\SolutionConsultorio\ObjetoTransferencia\obj\Release\ObjetoTransferencia.csproj.CoreCompileInputs.cache
+E:\SolutionConsultorio\ObjetoTransferencia\obj\Release\ObjetoTransferencia.csproj.CopyComplete
+E:\SolutionConsultorio\ObjetoTransferencia\obj\Release\ObjetoTransferencia.dll
+E:\SolutionConsultorio\ObjetoTransferencia\obj\Release\ObjetoTransferencia.pdb
