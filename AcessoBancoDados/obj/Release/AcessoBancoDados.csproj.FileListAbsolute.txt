@@ -1,0 +1,13 @@
+E:\SolutionConsultorio\AcessoBancoDados\bin\Release\AcessoBancoDados.dll.config
+E:\SolutionConsultorio\AcessoBancoDados\bin\Release\AcessoBancoDados.dll
+E:\SolutionConsultorio\AcessoBancoDados\bin\Release\AcessoBancoDados.pdb
+E:\SolutionConsultorio\AcessoBancoDados\bin\Release\Microsoft.Analytics.Interfaces.dll
+E:\SolutionConsultorio\AcessoBancoDados\bin\Release\Microsoft.Analytics.Interfaces.Streaming.dll
+E:\SolutionConsultorio\AcessoBancoDados\bin\Release\Microsoft.Analytics.Types.dll
+E:\SolutionConsultorio\AcessoBancoDados\bin\Release\System.Data.SqlClient.dll
+E:\SolutionConsultorio\AcessoBancoDados\bin\Release\System.Data.SqlClient.xml
+E:\SolutionConsultorio\AcessoBancoDados\obj\Release\AcessoBancoDados.csproj.AssemblyReference.cache
+E:\SolutionConsultorio\AcessoBancoDados\obj\Release\AcessoBancoDados.csproj.CoreCompileInputs.cache
+E:\SolutionConsultorio\AcessoBancoDados\obj\Release\AcessoBancoDados.csproj.CopyComplete
+E:\SolutionConsultorio\AcessoBancoDados\obj\Release\AcessoBancoDados.dll
+E:\SolutionConsultorio\AcessoBancoDados\obj\Release\AcessoBancoDados.pdb
