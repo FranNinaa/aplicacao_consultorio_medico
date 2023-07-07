@@ -8,7 +8,7 @@
   &lt;ConnectionString&gt;Data Source=FRAN-CINE\SQLEXPRESS;Initial Catalog=Consultorio;Integrated Security=True&lt;/ConnectionString&gt;
   &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
 &lt;/SerializableConnectionString&gt;</DesignTimeValue>
-      <Value Profile="(Default)">Data Source=FRAN-CINE\SQLEXPRESS;Initial Catalog=Consultorio;Integrated Security=True</Value>
+      <Value Profile="(Default)">SQLEXPRESS;Initial Catalog=Consultorio;Integrated Security=True</Value>
     </Setting>
   </Settings>
 </SettingsFile>
