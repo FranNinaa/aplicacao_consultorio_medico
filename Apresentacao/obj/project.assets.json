@@ -523,11 +523,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\SolutionConsultorio\\Apresentacao\\Apresentacao.csproj",
+      "projectUniqueName": "F:\\SolutionConsultorio\\Apresentacao\\Apresentacao.csproj",
       "projectName": "Apresentacao",
-      "projectPath": "E:\\SolutionConsultorio\\Apresentacao\\Apresentacao.csproj",
+      "projectPath": "F:\\SolutionConsultorio\\Apresentacao\\Apresentacao.csproj",
       "packagesPath": "C:\\Users\\Fran\\.nuget\\packages\\",
-      "outputPath": "E:\\SolutionConsultorio\\Apresentacao\\obj\\",
+      "outputPath": "F:\\SolutionConsultorio\\Apresentacao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Fran\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -544,11 +544,11 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "E:\\SolutionConsultorio\\ObjetoTransferencia\\ObjetoTransferencia.csproj": {
-              "projectPath": "E:\\SolutionConsultorio\\ObjetoTransferencia\\ObjetoTransferencia.csproj"
+            "F:\\SolutionConsultorio\\ObjetoTransferencia\\ObjetoTransferencia.csproj": {
+              "projectPath": "F:\\SolutionConsultorio\\ObjetoTransferencia\\ObjetoTransferencia.csproj"
             },
-            "E:\\SolutionConsultorio\\RegraNegocios\\RegraNegocios.csproj": {
-              "projectPath": "E:\\SolutionConsultorio\\RegraNegocios\\RegraNegocios.csproj"
+            "F:\\SolutionConsultorio\\RegraNegocios\\RegraNegocios.csproj": {
+              "projectPath": "F:\\SolutionConsultorio\\RegraNegocios\\RegraNegocios.csproj"
             }
           }
         }
@@ -587,7 +587,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
