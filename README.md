@@ -66,7 +66,7 @@ Este projeto foi desenvolvido por Francine dos Santos.
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença XYZ]. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+
 
 ---
 
