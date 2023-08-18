@@ -64,11 +64,11 @@ Se desejar contribuir para este projeto, siga as etapas abaixo:
 
 Este projeto foi desenvolvido por Francine dos Santos.
 
-## Licença
 
 
 
----
+
+
 
 <h1>Contextualização Projeto Hospital Uniclass - Banco de Dados Relacional</h1>
 
